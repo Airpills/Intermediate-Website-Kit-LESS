@@ -87,6 +87,8 @@
   #cs-contact #cs-form .cs-button-solid {
     width: 100%;
     border: none;
+    color: #fff;
+    border-radius: 0.5rem;
   }
   #cs-contact .cs-right-section {
     height: 20rem;
